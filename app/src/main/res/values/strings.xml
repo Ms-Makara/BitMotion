@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="source_curr">Select source currency:</string>
+    <string name="end_curr">Select end currency:</string>
+    <string name="date">Select a date:</string>
+    <string name="amount">Enter amount:</string>
+    <string name="convert">Convert!</string>
+    <string name="resultText">Result:</string>
+    <string name="zero">00</string>
+    <string-array name="currency">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>CHF</item>
+        <item>CAD</item>
+        <item>AUD</item>
+        <item>NZD</item>
+        <item>ZAR</item>
+    </string-array>
+</resources>
